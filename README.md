@@ -2,7 +2,7 @@
 
 An **educational project** that uses AI technologies to derive insights &amp; learnings from Narendra Modi's life. 🪷
 
-**TLDR:** You can read the final report here 👉 [Learnings from Narendra Modi and Yogic Sciences for 2025](/narendra-modi-study/output/v1/refined/namo_study__learnings_from_namo_and_yogic_science_v1_refined.md).
+**TLDR:** You can read the final report here 👉 [Learnings from Narendra Modi and Yogic Sciences for 2025](/output/v1/refined/namo_study__learnings_from_namo_and_yogic_science_v1_refined.md).
 
 
 This study is an initiative in service to India's 76th Republic Day on 26th January 2025! 🇮🇳 
@@ -28,7 +28,7 @@ The notebook is self-contained, so it has everything you need to generate the st
 
 - Make sure you have **Python 3.8+** and **Git** installed on your system. 
 - Add a `.env` file to your root folder with `OPENAI_API_KEY`, `ANTHROPIC_API_KEY` and `SERPER_API_KEY`. You can get these keys from the respective websites.
-- Open the [namo_study.ipynb](/narendra-modi-study/namo_study.ipynb) and run each cell sequentially. 
+- Open the [namo_study.ipynb](/namo_study.ipynb) and run each cell sequentially. 
 - I have provided instructions and guidelines wherever necessary. 
 
 ## Contributions 
@@ -37,7 +37,7 @@ Contributions are welcome. Please fork the repository, make your changes and sub
 
 ## License and Terms of Use
 
-Please read the [Terms of Use](/narendra-modi-study/TERMS.md) and make sure you are compliant with it. This project is licensed under the [MIT LICENSE](/narendra-modi-study/LICENSE) to promote fair and ethical use.
+Please read the [Terms of Use](/TERMS.md) and make sure you are compliant with it. This project is licensed under the [MIT LICENSE](/LICENSE) to promote fair and ethical use.
 
 ___
 
