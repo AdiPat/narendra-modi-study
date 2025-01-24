@@ -2,7 +2,7 @@
 
 An **educational project** that uses AI technologies to derive insights &amp; learnings from Narendra Modi's life. 🪷
 
-**TLDR:** You can read the final report here 👉 [Learnings from Narendra Modi and Yogic Sciences for 2025](/output/v1/refined/namo_study__learnings_from_namo_and_yogic_science_v1_refined.md).
+**TLDR:** You can read the final report here 👉 [Learnings from Narendra Modi and Yogic Sciences for 2025](/narendra_modi_study_v1.pdf).
 
 
 This study is an initiative in service to India's 76th Republic Day on 26th January 2025! 🇮🇳 
